@@ -8,7 +8,7 @@ Basically this dumbass just used DotNetToJScript to convert his ass loader into 
 
 First off, open the solution file for DotNetToJScript. build as debug. now open command prompt as administrator and run:
 ```
-"<PATH TO PROJECT>\Dopium-Loader-master\DotNetToJScript\bin\Debug\DotNetToJScript.exe" "<PATH TO PROJECT>\Dopium-Loader-master\ExampleAssembly\bin\Debug\ExampleAssembly.dll"
+"<PATH TO PROJECT>\Dopium-Loader-master\DotNetToJScript\DotNetToJScript\bin\Debug\DotNetToJScript.exe" "<PATH TO PROJECT>\Dopium-Loader-master\DotNetToJScript\ExampleAssembly\bin\Debug\ExampleAssembly.dll"
 ```
 
 this will generate the script for it. i have also included the .SCT files in releases. you can upload these to a webserver and execute them using:
