@@ -2,7 +2,7 @@
 Jakob has been harassing me all week and started leaking my stuff so just releasing his goofy loaders source 🤡
 
 ## How it works:
-Basically this dumbass just used DotNetToJScript to convert his ass loader into a .JS file. Eventually I embedded it into a .sct scriptlet and hosted it. whenever I got removed from Dopium, it seems Jakob thought there would be pleading from me (I genuinely didnt want to work with him anymore anyway, he actually had to convince me several times not to quit) and so he decided to resort to harassment such as pinging me in mutual discord servers, joining my new server to slander me, joining on many new alternate accounts whenever I proceeded to ban him from the server, and started leaking my products whenever I exposed his little doxxing shit whenever I had enough of the harassment. 
+Basically this dumbass just used DotNetToJScript to convert his ass loader into a .JS file. Eventually I embedded it into a .sct scriptlet and hosted it. whenever I got removed from Dopium, it seems Jakob thought there would be pleading from me (I genuinely didnt want to work with him anymore anyway, he actually had to convince me several times not to quit) and so he decided to resort to harassment such as pinging me in mutual discord servers with various insults included in his messages, joining my new server to slander me, joining on many new alternate accounts whenever I proceeded to ban him from the server, and started leaking my products whenever I exposed his little doxxing shit whenever I had enough of the harassment. 
 
 ## How to build:
 
